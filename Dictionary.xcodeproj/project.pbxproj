@@ -18,6 +18,9 @@
 		4CBE477813BB9CB9001C2F31 /* DictionaryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CBE477613BB9CB9001C2F31 /* DictionaryViewController.xib */; };
 		4CBE478013BB9CE4001C2F31 /* Dictionary.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CBE477E13BB9CE4001C2F31 /* Dictionary.png */; };
 		4CBE478113BB9CE4001C2F31 /* Dictionary.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4CBE477F13BB9CE4001C2F31 /* Dictionary.txt */; };
+		4CBE478613BB9E30001C2F31 /* PickerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CBE478313BB9E30001C2F31 /* PickerAppDelegate.m */; };
+		4CBE478713BB9E30001C2F31 /* PickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CBE478513BB9E30001C2F31 /* PickerViewController.m */; };
+		4CBE478913BB9E53001C2F31 /* PickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CBE478813BB9E53001C2F31 /* PickerViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,11 @@
 		4CBE477713BB9CB9001C2F31 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/DictionaryViewController.xib; sourceTree = "<group>"; };
 		4CBE477E13BB9CE4001C2F31 /* Dictionary.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dictionary.png; sourceTree = "<group>"; };
 		4CBE477F13BB9CE4001C2F31 /* Dictionary.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dictionary.txt; sourceTree = "<group>"; };
+		4CBE478213BB9E30001C2F31 /* PickerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PickerAppDelegate.h; sourceTree = "<group>"; };
+		4CBE478313BB9E30001C2F31 /* PickerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickerAppDelegate.m; sourceTree = "<group>"; };
+		4CBE478413BB9E30001C2F31 /* PickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PickerViewController.h; sourceTree = "<group>"; };
+		4CBE478513BB9E30001C2F31 /* PickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickerViewController.m; sourceTree = "<group>"; };
+		4CBE478813BB9E53001C2F31 /* PickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PickerViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +94,11 @@
 				4CBE476D13BB9CB9001C2F31 /* DictionaryAppDelegate.h */,
 				4CBE476E13BB9CB9001C2F31 /* DictionaryAppDelegate.m */,
 				4CBE477013BB9CB9001C2F31 /* MainWindow.xib */,
+				4CBE478213BB9E30001C2F31 /* PickerAppDelegate.h */,
+				4CBE478313BB9E30001C2F31 /* PickerAppDelegate.m */,
+				4CBE478413BB9E30001C2F31 /* PickerViewController.h */,
+				4CBE478513BB9E30001C2F31 /* PickerViewController.m */,
+				4CBE478813BB9E53001C2F31 /* PickerViewController.xib */,
 				4CBE477313BB9CB9001C2F31 /* DictionaryViewController.h */,
 				4CBE477413BB9CB9001C2F31 /* DictionaryViewController.m */,
 				4CBE477613BB9CB9001C2F31 /* DictionaryViewController.xib */,
@@ -162,6 +175,7 @@
 				4CBE477813BB9CB9001C2F31 /* DictionaryViewController.xib in Resources */,
 				4CBE478013BB9CE4001C2F31 /* Dictionary.png in Resources */,
 				4CBE478113BB9CE4001C2F31 /* Dictionary.txt in Resources */,
+				4CBE478913BB9E53001C2F31 /* PickerViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,6 +189,8 @@
 				4CBE476C13BB9CB9001C2F31 /* main.m in Sources */,
 				4CBE476F13BB9CB9001C2F31 /* DictionaryAppDelegate.m in Sources */,
 				4CBE477513BB9CB9001C2F31 /* DictionaryViewController.m in Sources */,
+				4CBE478613BB9E30001C2F31 /* PickerAppDelegate.m in Sources */,
+				4CBE478713BB9E30001C2F31 /* PickerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
