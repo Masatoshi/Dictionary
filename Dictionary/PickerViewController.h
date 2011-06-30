@@ -13,6 +13,7 @@
     IBOutlet UIPickerView *pickerView;
     IBOutlet UITextView *textView;
 	NSMutableArray *arrayColors;
+    //here
 }
 
 @end
