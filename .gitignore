@@ -1,7 +1,15 @@
-Dictionary.xcodeproj/project.pbxproj
-Dictionary.xcodeproj/xcuserdata/janbannister.xcuserdatad/xcschemes/xcschememanagement.plist
-Dictionary.xcodeproj/xcuserdata/janbannister.xcuserdatad/xcschemes/Dictionary.xcscheme
-Dictionary.xcodeproj/project.xcworkspace/xcuserdata/janbannister.xcuserdatad/UserInterfaceState.xcuserstate
-Dictionary.xcodeproj/project.xcworkspace/contents.xcworkspacedata
-
-Dictionary.xcodeproj/xcuserdata/janbannister.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist
+# Xcode
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
